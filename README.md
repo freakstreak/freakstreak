@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Tanmay Jaiswal
+### Hi there 👋, I'm Tanmay Jaiswal
 
 Here are some ideas to get you started:
 
