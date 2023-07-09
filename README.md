@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**freakstreak/freakstreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at @geekyants
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
   - [Linkedin](https://www.linkedin.com/in/tanmay-jaiswal-aa3580189/)
   - [Twitter](https://twitter.com/_tanmay22)
   - [Mail](tanmayjaiswal2201@gmail.com)
--->
+
